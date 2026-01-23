@@ -12,6 +12,6 @@ public class Teleport : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        if (input)
+       // if (Input)
     }
 }
